@@ -1,1 +1,6 @@
-facts: i like reading
+# facts: 
+* i like reading
+* i like sleeping
+* i like gaming-ish
+
+
